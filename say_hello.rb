@@ -3,6 +3,6 @@
 def say_hello(name = nil)
   if name = nil
     puts "Hello Ruby Programmer!"
-  else 
+  else name != nil
     puts "Hello #{name}"
 end
