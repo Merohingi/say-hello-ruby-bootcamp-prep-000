@@ -6,3 +6,4 @@ def say_hello(name = nil)
   else 
     puts "Hello #{name}!"
   end
+end
