@@ -5,4 +5,5 @@ def say_hello(name = nil)
     puts "Hello Ruby Programmer!"
   else 
     puts "Hello #{name}"
+  end
 end
